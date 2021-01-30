@@ -1,0 +1,7 @@
+First Name 	Last Name 	Physics 	Maths 	Chemistry 	English 	CITS1401
+Robert 		Denaro		50		60	89		65		82
+Hulk		Hogan		70		45	68		56		40
+Julia		Roberts		67		90	72		85		34
+Walter		White		80		87	100		80		65
+Tom		Hanks		95		76	45		78		90
+George		Bush		30		40	55		30		40

@@ -1,0 +1,10 @@
+>>> dist,p1,p2 = main("sample1.txt","sample2.txt","composite")
+
+>>> dist
+29.4246
+
+>>> p1
+{'also': 1, 'although': 0, 'and': 13, 'as': 8, 'because': 0, 'before': 0, 'but': 2, 'for': 0, 'if': 0, 'nor': 0, 'of': 8, 'or': 0, 'since': 1, 'that': 6, 'though': 0, 'until': 1, 'when': 0, 'whenever': 0, 'whereas': 0, 'which': 0, 'while': 0, 'yet': 0, ',': 27, ';': 5, '-': 10, "'": 1, 'words_per_sentence': 26.75, 'sentences_per_par': 6.0}
+
+>>> p2
+{'also': 0, 'although': 0, 'and': 27, 'as': 2, 'because': 0, 'before': 2, 'but': 4, 'for': 2, 'if': 2, 'nor': 0, 'of': 13, 'or': 2, 'since': 0, 'that': 10, 'though': 2, 'until': 0, 'when': 3, 'whenever': 0, 'whereas': 0, 'which': 0, 'while': 0, 'yet': 0, ',': 41, ';': 3, '-': 1, "'": 17, 'words_per_sentence': 25.4286, 'sentences_per_par': 1.75}

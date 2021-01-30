@@ -1,0 +1,17 @@
+A prime number is a whole number greater than 1 
+whose only factors are 1 and itself. 
+A factor is a whole numbers that can be divided evenly into another number
+something else
+
+open a file, and go through a loop
+read all the lines one by one
+split them using back selection 
+if the line is not empty, then keep it otherwise delete it
+and return the final variable
+
+it is a loop
+reading the file entirely
+and then we try to find out the file
+each line we have the back selection
+if there is just a blank line, we just want to ignore it
+and other lines we just concatenate them and return them 

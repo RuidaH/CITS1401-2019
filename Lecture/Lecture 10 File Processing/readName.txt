@@ -1,0 +1,3 @@
+This is the new content of the file
+When you use w operation, all the original content would be deleted
+when you use append operation, the original text would not be lost
